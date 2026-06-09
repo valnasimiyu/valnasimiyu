@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Valerian
+Mathematics & Computer Science Student
+##Skills
+- HTML
+- CSS
+- JavaScript
+##Currently learning
+- Python
+- REACT
+- Git & GitHub
+- Android Development
+##Currently working on
+###Hospital management system
+Features:
+- Patient authentication
+- Doctor-patient chat
+- Appontment booking
+- Medication reminders
+- Service rating system
+##How to reach me
+[Twitter/X](https://x.com/valuu3843087071)
+[Email](wafulavalerian6@gmail.com)
+##Goals
+- Build impactful software solutions
+- Contribute to open-source projects
+##Fun fact
+☕I love coffee
 
-<!--
-**valnasimiyu/valnasimiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
