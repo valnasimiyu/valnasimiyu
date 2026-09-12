@@ -12,12 +12,12 @@
 
 ### 🎓 About Me
 
-- 📐 Studying **Mathematics & Computer Science**, focused on statistics, calculus, number theory, and linear algebra
-- 💻 Building practical, hands-on projects to turn math concepts into working software
-- 🧑‍🏫 Peer-tutor in **C++**
-- 📜 freeCodeCamp certified — *JavaScript Algorithms and Data Structures* & *Responsive Web Design*
-- 🌱 Currently deep-diving into **regex**, from fundamentals to advanced pattern design
-- 🎯 Long-term goal: **quantitative engineering / cryptography engineering**
+- Studying **Mathematics & Computer Science**, focused on statistics, calculus, number theory, and linear algebra
+- Building practical, hands-on projects to turn math concepts into working software
+- Peer-tutor in **C++**
+- freeCodeCamp certified — *JavaScript Algorithms and Data Structures* & *Responsive Web Design*
+- Currently deep-diving into **regex**, from fundamentals to advanced pattern design
+- Long-term goal: **quantitative engineering / cryptography engineering**
 
 ---
 
