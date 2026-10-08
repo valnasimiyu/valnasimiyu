@@ -16,15 +16,15 @@
 - Building practical, hands-on projects to turn math concepts into working software
 - Peer-tutor in **C++**
 - freeCodeCamp certified — *JavaScript Algorithms and Data Structures* & *Responsive Web Design*
-- Currently deep-diving into **regex**, from fundamentals to advanced pattern design
-- Long-term goal: **quantitative engineering / cryptography engineering**
+- Currently deep-diving into **Python**
+- Long-term goal: **quantitative engineering**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,git,github,vscode,latex,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,git,github,vscode&theme=dark" />
 </div>
 
 ---
