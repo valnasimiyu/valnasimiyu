@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Val%20Nasimiyu&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Mathematics%20%26%20Computer%20Science%20Student&descAlignY=58&descSize=18" width="100%"/>
-
 <a href="https://github.com/valnasimiyu">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Mathematics+%26+Computer+Science+Student;Building+practical+tools%2C+one+bug+at+a+time;Open+to+collaboration+%26+peer+tutoring&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=22&pause=1500" />
 </a>
