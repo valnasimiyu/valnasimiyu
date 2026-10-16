@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Val%20Nasimiyu&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Mathematics%20%26%20Computer%20Science%20Student&descAlignY=58&descSize=18" width="100%"/>
-
 <a href="https://github.com/valnasimiyu">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Mathematics+%26+Computer+Science+Student;Building+practical+tools%2C+one+bug+at+a+time;Open+to+collaboration+%26+peer+tutoring&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=22&pause=1500" />
 </a>
@@ -20,7 +18,6 @@
 -  Long-term goal: **Quantitative engineering**
 
 ---
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -30,9 +27,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+### 👀
+
+<div align="center">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valnasimiyu&label=Profile%20views&color=0e75b6&style=flat" alt="valnasimiyu" /> </p>
 
 </div>
 
@@ -60,6 +67,7 @@
 | **[Focus-tracker](https://github.com/valnasimiyu/Focus-tracker)** | A personal productivity tool to build study consistency and cut down phone/social media distraction |
 | **[css-city-skyline](https://github.com/valnasimiyu/css-city-skyline)** | A pastel-themed city skyline built with HTML/CSS, focused on layout and element positioning |
 | **[bookmark-notebook-app](https://github.com/valnasimiyu/bookmark-notebook-app)** | A tool for saving, organizing, and revisiting bookmarks |
+| **[Email-Simulator](https://github.com/valnasimiyu/Email-Simulator)** | Command-line email simulator that mimics sending,receiving,storing and deleting emails without a real email server |
 
 ---
 
