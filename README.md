@@ -35,13 +35,20 @@
 </div>
 
 ---
-### 👀
-
-<div align="center">
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valnasimiyu&label=Profile%20views&color=0e75b6&style=flat" alt="valnasimiyu" /> </p>
-
-</div>
+<table align="center">
+    <tr>
+      <td><b>👀 Views</b></td>
+      <td><b>🌟 Stars</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=valnasimiyu&style=flat-square" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/valnasimiyu?style=social" />
+      </td>
+    </tr>
+  </table>
 
 ---
 
@@ -83,3 +90,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+---
+###### valnasimiyu © 2026
