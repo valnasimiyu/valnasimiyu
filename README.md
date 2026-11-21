@@ -12,27 +12,35 @@
 
 -  Studying **Mathematics & Computer Science**, focused on probability, statistical inferences and computational methods.
 -  Building practical, hands-on projects to turn math concepts into working software
--  Peer-tutor in **C++**
 -  freeCodeCamp certified — *JavaScript Algorithms and Data Structures* & *Responsive Web Design*
 -  Currently deep-diving into **Python**
--  Long-term goal: **Quantitative engineering**
+-  Long-term goal: **Quantitative finance**
 
 ---
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Proramming**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Data Visualization**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools and workflow**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
 
 ---
 <table align="center">
@@ -72,7 +80,6 @@
 | Project | Description |
 |---|---|
 | **[Focus-tracker](https://github.com/valnasimiyu/Focus-tracker)** | A personal productivity tool to build study consistency and cut down phone/social media distraction |
-| **[css-city-skyline](https://github.com/valnasimiyu/css-city-skyline)** | A pastel-themed city skyline built with HTML/CSS, focused on layout and element positioning |
 | **[bookmark-notebook-app](https://github.com/valnasimiyu/bookmark-notebook-app)** | A tool for saving, organizing, and revisiting bookmarks |
 | **[Email-Simulator](https://github.com/valnasimiyu/Email-Simulator)** | Command-line email simulator that mimics sending,receiving,storing and deleting emails without a real email server |
 
@@ -92,4 +99,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 ---
+*"In God we trust. All others must bring data."*  - W. Edwards Deming
 ###### valnasimiyu © 2026
